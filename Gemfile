@@ -7,6 +7,7 @@ end
 gem 'rails', '~> 5.0.0'
 gem 'sprockets'
 gem 'sass-rails'
+gem 'therubyracer'
 gem 'coffee-rails'
 gem 'uglifier'
 gem 'jquery-rails'
